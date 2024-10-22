@@ -32,5 +32,7 @@ Files used:
 
 Output:
 This project outputs a live video stream displayed in a web browser where:
+
 1.Faces are detected and highlighted with blue rectangles.
+
 2.Eyes within the detected face region are highlighted with green rectangles.
